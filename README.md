@@ -55,6 +55,6 @@ A: 减少图片分辨率或减少帧数可以提高性能
 ## 下载链接
 
 - [ColorBlock模组下载](https://pan.baidu.com/s/1pFi82Wx7vJ5bnQTE4p9cIA?pwd=f3jx)
-- [最新版本发布](https://github.com/yourusername/minecraft-particle-video-player/releases)
+- [最新版本发布](https://github.com/xiyang12345/Minecraft-ParticleVideoPlayerDatapackGenerator/releases/tag/Minecraft)
 
 ---
