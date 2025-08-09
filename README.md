@@ -1,0 +1,2 @@
+# Minecraft-ParticleVideoPlayerDatapackGenerator
+这个项目是一个将Premiere Pro逐帧导出的视频序列在Minecraft中通过粒子效果播放的工具。它允许你在Minecraft游戏中创建动态的视频播放效果，将静态图像序列转换为游戏内的动画体验。
