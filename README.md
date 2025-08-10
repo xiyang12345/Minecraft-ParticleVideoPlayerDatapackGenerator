@@ -8,19 +8,15 @@
   - Minecraft 1.16.5 fabirc
   - Java8（必须使用Java8）
   - 必须安装 [ColorBlock模组](https://pan.baidu.com/s/1pFi82Wx7vJ5bnQTE4p9cIA?pwd=f3jx)
-  
-- **软件环境**:
-  - Python 3.x
-  - 标准库（无需额外安装）
 
 ## 使用教程
 
 ### 1. 准备视频帧
 1. 在Premiere Pro中导出视频为PNG序列
 2. 将所有帧图片放入一个文件夹中
-3. 确保文件名包含数字序号（如frame_001.png, frame_002.png）
+3. 确保文件名包含数字序号（如test_001.png, test_002.png）
 
-### 2. 运行脚本
+### 2. 运行脚本（.exe直接双击运行）
 ```bash
 python particle_video_player.py
 ```
@@ -40,14 +36,14 @@ python particle_video_player.py
 **Q: 粒子效果不显示怎么办？**  
 A: 请确保：
 1. 已安装ColorBlock模组
-2. 游戏版本为1.16.5
+2. 游戏版本为1.16.5 fabirc
 3. 数据包已正确加载（/reload）
 
 **Q: 图片序列播放顺序错误？**  
 A: 确保文件名包含连续数字序号，如：
-- frame_001.png
-- frame_002.png
-- frame_003.png
+- test_001.png
+- test_002.png
+- test_003.png
 
 **Q: 粒子效果卡顿？**  
 A: 减少图片分辨率或减少帧数可以提高性能
