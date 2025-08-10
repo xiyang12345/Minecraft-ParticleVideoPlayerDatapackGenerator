@@ -18,7 +18,7 @@
 
 ### 2. 运行脚本（.exe直接双击运行）
 ```bash
-python particle_video_player.py
+python mc粒子视频数据包生成器.py
 ```
 
 ### 3. 配置参数
