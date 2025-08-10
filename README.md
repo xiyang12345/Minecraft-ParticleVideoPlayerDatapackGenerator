@@ -5,7 +5,7 @@
 ## 系统要求
 
 - **游戏环境**:
-  - Minecraft 1.16.5
+  - Minecraft 1.16.5 fabirc
   - Java8（必须使用Java8）
   - 必须安装 [ColorBlock模组](https://pan.baidu.com/s/1pFi82Wx7vJ5bnQTE4p9cIA?pwd=f3jx)
   
@@ -54,7 +54,7 @@ A: 减少图片分辨率或减少帧数可以提高性能
 
 ## 下载链接
 
-- [ColorBlock模组下载](https://pan.baidu.com/s/1pFi82Wx7vJ5bnQTE4p9cIA?pwd=f3jx)
+- [ColorBlock模组下载（下载1.16.5 支持fabirc）](https://pan.baidu.com/s/1pFi82Wx7vJ5bnQTE4p9cIA?pwd=f3jx)
 - [最新版本发布](https://github.com/xiyang12345/Minecraft-ParticleVideoPlayerDatapackGenerator/releases/tag/Minecraft)
 
 ---
