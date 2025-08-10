@@ -11,9 +11,8 @@ class ParticleDataPackGenerator:
     def __init__(self, root):
         self.root = root
         self.root.title("粒子效果数据包生成器")
-        self.root.geometry("550x450")  # 增加窗口高度
+        self.root.geometry("550x450") 
         
-        # 主框架 - 使用Frame容器确保布局可滚动
         self.main_frame = tk.Frame(root)
         self.main_frame.pack(fill="both", expand=True, padx=10, pady=10)
         
@@ -117,7 +116,7 @@ class ParticleDataPackGenerator:
         # 状态标签
         self.status_label = tk.Label(
             self.main_frame, 
-            text="© 2023 Minecraft粒子效果生成器", 
+            text="© 2025 Minecraft粒子视频生成器 By bilibili疯狂的夕阳", 
             fg="gray",
             font=("Arial", 8)
         )
