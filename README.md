@@ -8,7 +8,7 @@
 - **游戏环境**:
   - Minecraft 1.16.5 fabirc
   - Java8（必须使用Java8）
-  - 必须安装 [ColorBlock模组](https://pan.baidu.com/s/1pFi82Wx7vJ5bnQTE4p9cIA?pwd=f3jx)
+  - 必须安装 [ColorBlock模组](https://github.com/xiyang12345/Minecraft-ParticleVideoPlayerDatapackGenerator/blob/main/AnotherColorBlock-1.0.1-1.16.5.jar)
 
 ## 使用教程
 
@@ -92,7 +92,7 @@ A: 将脚本窗口全屏
 
 ## 下载链接
 
-- [ColorBlock模组下载（下载1.16.5 支持fabirc）](https://pan.baidu.com/s/1pFi82Wx7vJ5bnQTE4p9cIA?pwd=f3jx)
+- [ColorBlock模组下载（下载1.16.5 支持fabirc）](https://github.com/xiyang12345/Minecraft-ParticleVideoPlayerDatapackGenerator/blob/main/AnotherColorBlock-1.0.1-1.16.5.jar)
 - [最新版本发布](https://github.com/xiyang12345/Minecraft-ParticleVideoPlayerDatapackGenerator/releases/tag/Minecraft)
 
 ---
